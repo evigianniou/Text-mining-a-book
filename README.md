@@ -1,5 +1,7 @@
 # Text-mining-a-book
 ‘Father Goriot’: Uncovering Hidden patterns of class inequality, wealth and family!
+
+
 ![image](https://github.com/evigianniou/Text-mining-a-book/assets/118303189/2af62707-ac74-411e-96f5-0011726daeba)
 
 Table of contents
