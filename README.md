@@ -54,6 +54,7 @@ Wordcloud of single words
 
 
 Wordcloud of bigrams
+
 4.Tf-idf
 Additionally, TF-IDF (Term Frequency-Inverse Document Frequency) analysis was applied to identify meaningful words based on their frequency in the text and rarity in the entire corpus. By assigning weights to each term, TF-IDF highlights words that are frequently present in the text but relatively uncommon in the overall corpus. This approach can be valuable in text mining, as it enables us to focus on key terms that carry significant contextual information. Utilizing TF-IDF analysis provides a useful framework for selecting important words, which in turn support various analysis tasks, such as topic modeling and co-occurrence analysis. Incorporating bigrams into the TF-IDF analysis can further enhance the identification of meaningful word associations and contextual relationships within the text. When removing words from the text based on their TF-IDF scores, careful selection of an appropriate threshold is crucial to ensure meaningful and relevant terms are retained while filtering out less significant ones. It is also important to be careful with deleting words as they can be entities. After finding the tf scores of the words in our text, some of the frequent words found were money, poor, family, father, daughter, death, kill, love, tear, cry, brother, fear, pain, power, lover, mother, wife, husband, child which could be used to find family relationships or events.
 
