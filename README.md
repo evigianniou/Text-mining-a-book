@@ -4,7 +4,8 @@
 
 ![image](https://github.com/evigianniou/Text-mining-a-book/assets/118303189/2af62707-ac74-411e-96f5-0011726daeba)
 
-Table of contents
+Table of contents:
+
 o	Abstract
 o	Introduction
 o	Methods and Results
